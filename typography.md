@@ -6,7 +6,16 @@ main_nav: true
 ---
 
 <h1 id = "headings"> PAFMIM </h1>
-<p>Well written description of the project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
+Foundation models are huge models in the terms of number of parameters, neurons, layers, etc. which are pre trained on huge amounts of data. These can be later adapted for various downstream tasks using small amounts of data and reduced computation through fine-tuning, transfer learning, or prompt engineering. Due to recent advancements, powerful foundational models exist which can be used for visual tasks to be performed well by being used as feature extractors, and then used for other downstream tasks by adaptation.
+In this project we aim to leverage these foundation models and advanced learning paradigms to address the complexities of the highly sensitive medical domain, with a particular focus on CT and MRI data.
+<br>
+This endeavor presents us with two key challenges. First, bridging the domain gap between the training data of foundation models which are natural images and that of the application domain which consists of medical images. The gap leads to differences in the semantics, granularity and dimensionality of the images. Thus for the adaptation of the foundation models we need novel data processing and learning methods. Second, due to the sensitive nature  of medical data and strict privacy laws around it, we need to ensure strong privacy guarantees to prevent leakage of private data. Both input and output adaptations need to be made using novel methods to stop data leakage from either the model or its predictions.
+<br>
+While the primary goal is to adapt foundational models for the analysis of CT and MRI data, this project is poised to have a broader impact. The associated research will lead to adaptation of foundational models to the medical domain while maintaining performance and developing advanced learning paradigms that provide privacy guarantees while using the strong feature extractor capacities of foundational models. We will make all our developed methods available as open-source code, allowing them to be adopted for practical use. The novel methods learnt as a result would also be useful in other domains with similar challenges. For instance, in automated driving there also exists a similar gap in the domain of training data and in the case of applications like face recognition and biometrics, they face the challenge of usage of highly sensitive data. Thus our methods have the potential to tackle such tasks.
+
+
+</p>
 
 <hr>
 
