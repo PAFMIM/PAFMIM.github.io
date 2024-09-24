@@ -93,8 +93,8 @@ social:
   - name: GitHub
     icon: github
     username: PAFMIM
-    url: https://github.com/PAFMIN
-    desc: Fork me on GitHub
+    url: https://github.com/PAFMIM
+    desc: View Organisation
     share: false
 
   - name: LinkedIn
