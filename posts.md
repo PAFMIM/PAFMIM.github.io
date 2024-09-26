@@ -24,7 +24,7 @@ main_nav: true
   <div style="margin-left: 180px; text-align: left;">
     <a href = "https://www.dkfz.de/en/mic/team/people/Ralf_Floca.html" style=" font-size: 25px; margin-bottom: 10px;">Dr. Ralf Floca</a>
     <p style="font-size: 16px; color: #555;">
-      Ralf is the Group Lead of "Software development for Integrated Diagnostics and Therapy" at German Cancer Research Center since 2010. He has been a university lecturer at Heilbronn University/Heidelberg University from the year 2006.
+      Ralf is Group Lead at German Cancer Research Center (division of "Medical Image Computing") since 2010. He is giving lectures at Heilbronn University/Heidelberg University since the year 2006. His current project relevant research domains are medical image analysis and the application of secure and trustworthy machine learning and federated learning in medical image  computing / radiological research.
     </p>    
   </div>
 </div>
